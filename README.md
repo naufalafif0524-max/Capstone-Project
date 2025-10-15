@@ -133,13 +133,13 @@
       <h2>Selamat Datang di Negeri Diatas Awan Citorek</h2>
       <p>Temukan keindahan alam yang memukau, udara segar, dan pemandangan yang menakjubkan di Citorek, sebuah desa yang terletak di atas awan. Jelajahi situs ini untuk mengetahui lebih banyak tentang wisata, produk lokal, dan kegiatan menarik di sini.</p>
       <p><strong>Ayo mulai petualanganmu sekarang!</strong></p>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/zH6QiBoD2-I?si=WO_ZyxU2-wtL75S-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/zH6QiBoD2-I?si=5RnGK_pWyb_AK36F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     `,
     about: `
       <h2>Tentang Negeri Diatas Awan Citorek</h2>
       <p>Citorek adalah sebuah desa yang terkenal dengan keindahan alamnya yang berada di ketinggian, seringkali diselimuti oleh awan yang menambah kesan magis. Komunitas di sini sangat ramah dan menjaga kelestarian lingkungan serta budaya lokal.</p>
       <p>Usaha lokal yang berkembang di Citorek meliputi kerajinan tangan, pertanian organik, dan wisata alam yang berkelanjutan.</p>
-      <img src="Negri di atas awan" alt="Pemandangan Citorek" style="width:100%; border-radius:8px; margin-top:1rem;">
+      <img src="https://bidikutama.com/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-30-at-6.57.18-PM.jpeg" alt="Pemandangan Citorek" style="width:100%; border-radius:8px; margin-top:1rem;">
     `,
     wisata: `
       <h2>Wisata Alam di Citorek</h2>
